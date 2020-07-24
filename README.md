@@ -6,3 +6,7 @@ npm i
 cd to /backend/  
 npm i  
 define .env file in /backend/  
+cd to /backend/  
+nodemon server.js  
+cd to /mern-exercise-tracker/  
+npm start  
